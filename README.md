@@ -86,25 +86,11 @@ Repository Structure
 
 .
 ├── README.md
-├── fdp_day1_webpage.html
+├── index.html
 ├── WhatsApp Image 2026-09-07 at 08.48.44.jpeg
 └── WhatsApp Image 2026-09-07 at 10.55.13.jpeg
 
-View the Webpage
 
-Download or clone the repository and open fdp_day1_webpage.html in a browser.
-
-For GitHub Pages:
-
-Rename fdp_day1_webpage.html to index.html, if required.
-
-Open the repository Settings.
-
-Select Pages.
-
-Choose Deploy from a branch.
-
-Select the required branch and the root folder, then save.
 
 Acknowledgement
 
