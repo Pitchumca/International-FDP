@@ -1,8 +1,8 @@
-# Five-Day Online International FDP – Days 1 & 2
+# Five-Day Online International FDP – Days 1–3
 
 ## Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach
 
-This repository contains the webpage for Days 1 and 2 of the Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
+This repository contains the webpage for Days 1 to 3 of the Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
 
 ---
 
@@ -69,6 +69,28 @@ Dr. Hema Durairaj holds a PhD in Machine Learning and Deep Learning for Computer
 
 ---
 
+## Day 3 Session
+
+| | |
+|---|---|
+| **Topic** | Quantum Cryptography |
+| **Resource Person** | Mr. Sayyid Ahmad Fawwaaz |
+| **Designation** | Director, Digital Transformations, Dreehan Consulting, Hong Kong |
+| **Date** | 9 September 2026 |
+| **Time** | 4:00 p.m. – 6:00 p.m. IST |
+| **Mode** | Online |
+
+The session moves the programme's focus from AI systems to the security layer beneath next-generation computing, introducing quantum cryptography — how quantum mechanics can be used to secure communication, and what it means for data protection as quantum computing matures.
+
+### Key Themes
+
+- Principles of quantum mechanics underlying cryptographic security
+- Quantum key distribution and secure communication
+- Implications of quantum computing for classical cryptography
+- The future outlook for quantum-safe data protection
+
+---
+
 ## Programme Leadership
 
 **Convenor**
@@ -92,6 +114,6 @@ Vinayaka Mission's Research Foundation
 ---
 
 ## Acknowledgement
-The Department of Computer Science and Engineering and the AI NEXUS Club gratefully acknowledge the resource person, institutional leadership, faculty coordinators, organizing team, and participants for their contribution to the successful conduct of the programme.
 
-The Department of Computer Science and Engineering and the AI NEXUS Club gratefully acknowledge the resource person, institutional leadership, faculty coordinators, organizing team, and participants for their contribution to the successful conduct of the programme.
+The Department of Computer Science and Engineering and the AI NEXUS Club gratefully acknowledge the resource persons, institutional leadership, faculty coordinators, organizing team, and participants for their contribution to the successful conduct of the programme.
+
