@@ -1,8 +1,8 @@
-# Five-Day Online International FDP – Days 1–3
+# Five-Day Online International FDP – Days 1–4
 
 ## Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach
 
-This repository contains the webpage for Days 1 to 3 of the Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
+This repository contains the webpage for Days 1 to 4 of the Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
 
 ---
 
@@ -91,6 +91,35 @@ The session moves the programme's focus from AI systems to the security layer be
 
 ---
 
+## Day 4 Session
+
+| | |
+|---|---|
+| **Topic** | Next Generation Technologies |
+| **Resource Person** | Dr. Ramya Anandan |
+| **Designation** | Lecturer in Information Science, University of the West of England, Bristol, United Kingdom |
+| **Date** | 10 September 2026 |
+| **Time** | 4:00 p.m. – 6:00 p.m. IST |
+| **Mode** | Online |
+
+The session framed next-generation technology not as any single gadget, but as convergence — the point where compute, intelligence, connection, and experience meet a genuinely meaningful human problem.
+
+### About the Resource Person
+
+Dr. Ramya Anandan's academic background spans medical image processing, data analytics, and artificial intelligence, including a PhD on mammogram denoising algorithms and prior faculty roles at institutions in India before joining UWE Bristol. She holds three patents in India and has authored a book on data problems and architecture analysis in Python.
+
+- [Faculty profile](https://people.uwe.ac.uk/Person/RamyaAnandan)
+
+### Key Themes
+
+- Compute: cloud, edge, and quantum computing as the foundation layer
+- Intelligence: AI, analytics, and simulation as the reasoning layer
+- Connection: IoT, sensors, and next-generation networks
+- Experience: XR, robotics, and human-computer interaction
+- A real problem plus the right combination of capabilities
+
+---
+
 ## Programme Leadership
 
 **Convenor**
@@ -116,4 +145,6 @@ Vinayaka Mission's Research Foundation
 ## Acknowledgement
 
 The Department of Computer Science and Engineering and the AI NEXUS Club gratefully acknowledge the resource persons, institutional leadership, faculty coordinators, organizing team, and participants for their contribution to the successful conduct of the programme.
+
+
 
