@@ -1,8 +1,8 @@
-# Five-Day Online International FDP – Days 1–4
+# Five-Day Online International FDP – Days 1–5 (Complete)
 
 ## Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach
 
-This repository contains the webpage for Days 1 to 4 of the Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
+This repository contains the webpage for the complete Five-Day Online International Faculty Development Programme on **"Quantum Computing, AI, and Next-Generation Technologies – A Hands-on Approach,"** organized by the Department of Computer Science and Engineering in association with the AI NEXUS Club, Aarupadai Veedu Institute of Technology, Vinayaka Mission's Research Foundation (Deemed to be University), Chennai Campus.
 
 ---
 
@@ -120,6 +120,21 @@ Dr. Ramya Anandan's academic background spans medical image processing, data ana
 
 ---
 
+## Day 5 Session
+
+| | |
+|---|---|
+| **Topic** | Quantum Machine Learning |
+| **Resource Person** | Ms. Dhaniyalakshmi Sivaprakash |
+| **Designation** | Process Technician, Tesla Gigafactory Nevada, USA |
+| **Date** | 11 September 2026 |
+| **Time** | 4:00 p.m. – 6:00 p.m. IST |
+| **Mode** | Online |
+
+The closing session brought the programme full circle, returning to quantum computing with a focus on quantum machine learning — where quantum algorithms and classical machine learning intersect, and what that combination could mean for solving problems beyond the reach of today's classical hardware.
+
+---
+
 ## Programme Leadership
 
 **Convenor**
@@ -145,6 +160,7 @@ Vinayaka Mission's Research Foundation
 ## Acknowledgement
 
 The Department of Computer Science and Engineering and the AI NEXUS Club gratefully acknowledge the resource persons, institutional leadership, faculty coordinators, organizing team, and participants for their contribution to the successful conduct of the programme.
+
 
 
 
